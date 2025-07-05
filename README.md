@@ -1,6 +1,6 @@
 # DICE-FER Project: Disentangled Identity and Expression Representations for Facial Expression Recognition
 
-**Disclaimer:** This repository is a personal fork/archive of a collaborative project completed as part of the EE656 course at IIT Kanpur. I contributed as a collaborator in discussions, experimentation support, and conceptual guidance. The original collaborative repository is maintained by the full team.
+**Disclaimer:** This repository is a personal fork/archive of a collaborative project completed as part of the EE656 course at IIT Kanpur. I contributed as a collaborator in discussions, experimentation support, and conceptual guidance. This repository hosts the final project code for learning and portfolio purposes.
 
 This repository contains our course project implementation of the DICE-FER architecture for facial expression recognition (FER), developed as part of **EE656: Artificial Intelligence, Machine Learning, Deep Learning and Its Applications** at **IIT Kanpur**.
 
